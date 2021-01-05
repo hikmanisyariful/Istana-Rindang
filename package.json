@@ -1,5 +1,6 @@
 {
   "name": "rindang-website",
+  "homepage": "http://istanarindang.id/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
